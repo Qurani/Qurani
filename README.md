@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Qurani
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Advanced Web Programming
-- 💞️ I’m looking to collaborate on Uincuk my lope lope
+- 💞️ I’m looking to collaborate on UINSU
 - 📫 How to reach me send to my email
 
 <!---
